@@ -6,7 +6,6 @@
 package MemberList;
 
 import BookList.BookListController;
-import BookList.BookListController.Book;
 import dbutils.ConnectDB;
 import java.net.URL;
 import java.util.ResourceBundle;
